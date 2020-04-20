@@ -1,0 +1,11 @@
+{
+	"Position": "Nombre del cargo",
+	"Company": "Empresa",
+	"Salary": "Salario",
+	"City": "Ciudad",
+	"PublicationDate": "Fecha de publicación",
+    "Views": "No. Visitas",
+    "Millions":" Millones",
+    "Million":" Millon",
+    "Table":"thead-light"
+}
